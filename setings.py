@@ -1,0 +1,3 @@
+FPS = 60
+W_WIDTH = 1200
+W_HIGHT = 720
